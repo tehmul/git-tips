@@ -1,3 +1,7 @@
+---
+title: contributing
+---
+
 ## Easy steps:
 
 * [Fork](https://github.com/git-tips/tips/network) the repo.

@@ -1,3 +1,8 @@
+---
+title: README
+tags: [Notebooks/personal/git/tips]
+---
+
 ## git-tips
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](./contributing.md)
 
